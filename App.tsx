@@ -1,5 +1,4 @@
 import { StatusBar } from 'expo-status-bar';
-
 import './global.css';
 import HomeScreen from '~/screens/HomeScreen';
 import { View } from 'react-native';
